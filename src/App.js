@@ -21,7 +21,7 @@ export default function App() {
   return (
     <div>
       <Router basename='/'>
-        <Route path="/" element={<Home formData={formData} setFormData={setFormData} />} />
+        <Route exact path="/" element={<Home formData={formData} setFormData={setFormData} />} />
         <Route path="/personal" element={<Personal formData={formData} setFormData={setFormData} />} />
         <Route path="/summary" element={<Summary formData={formData} setFormData={setFormData} />} />
         <Route path="*" element={<Error />} />
