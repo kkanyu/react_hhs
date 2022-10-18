@@ -1,7 +1,7 @@
 // Kaylene-Nhu Nguyen @ Mohawk College, 2022
 import React, {useState} from 'react';
 import './App.css';
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Home } from './pages/Home.js';
 import { Personal } from './pages/Personal';
 import { Summary } from './pages/Summary';
