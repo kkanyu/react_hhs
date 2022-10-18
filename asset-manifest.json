@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_hhs/static/css/main.b6ff2196.css",
+    "main.js": "/react_hhs/static/js/main.d3d72a39.js",
+    "index.html": "/react_hhs/index.html",
+    "main.b6ff2196.css.map": "/react_hhs/static/css/main.b6ff2196.css.map",
+    "main.d3d72a39.js.map": "/react_hhs/static/js/main.d3d72a39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6ff2196.css",
+    "static/js/main.d3d72a39.js"
+  ]
+}
